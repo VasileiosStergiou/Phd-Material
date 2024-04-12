@@ -1,0 +1,22 @@
+Συνέδρια 
+
+-CVPR, 
+-ICCV, 
+-ECCV, 
+-ICIP, 
+-ISBI, 
+-MICCAI, 
+-BMVC, 
+-MIUA, 
+-IPMI 
+
+και περιοδικά όπως
+ 
+-BMC Medical Imaging, 
+-Computerized Medical Imaging and Graphics, 
+-IEEE Transactions on Medical Imaging, 
+-International Journal of Biomedical Imaging, 
+-Journal of Digital Imaging, 
+-Journal of Medical Imaging, 
+-Medical Image Analysis, 
+-Medical Imaging Technology
